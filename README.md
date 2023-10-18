@@ -2,7 +2,7 @@
 
 This respository contains the data set used in the publication: Berry, OF, Adamack, A, Hitchen, Y, Soulsbury, CD, Gruber, B & Sarre, SD. (submitted): The genetic signature left by the range expansion of red foxes in Australia is detectable after more than 80 years of population stability 
 
-[![DOI](https://zenodo.org/badge/706508725.svg)](https://zenodo.org/doi/10.5281/zenodo.10016239)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10020047.svg)](https://doi.org/10.5281/zenodo.10020047)
 
 
 ## Abstract
